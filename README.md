@@ -16,4 +16,4 @@ This is a simple calculator application built using Java Swing. It provides basi
 - **AWT (java.awt)**: For handling event-driven programming.
 
 ## OUTPUT
-"C:\Users\ashri\Desktop\vs\calculator\calci.jpg"
+C:\Users\ashri\Desktop\vs\calculator\calci.jpg
